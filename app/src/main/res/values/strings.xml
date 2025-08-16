@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JournalAPP</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="welcome_text">Welcome to our Journal App</string>
+    <string name="email_hint">Email</string>
+    <string name="create_account_button_text">CREATE ACCOUNT</string>
+</resources>
